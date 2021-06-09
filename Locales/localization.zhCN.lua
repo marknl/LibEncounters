@@ -111,7 +111,7 @@ L["Terestian Illhoof"] = "特雷斯坦·邪蹄"
 L["Shade of Aran"] = "埃兰之影"
 L["Netherspite"] = "虚空幽龙"
 L["Chess Event"] = "国际象棋"
-L["Prince Malchezaar"] = "玛克扎尔王	"
+L["Prince Malchezaar"] = "玛克扎尔王子"
 L["Nightbane"] = "夜之魇"
 
 --- Instance Names ---
